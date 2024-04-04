@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`render correctly render correctly screenLoader view 1`] = `
+<View
+  color="transparent"
+  style={
+    Array [
+      Object {
+        "backgroundColor": "transparent",
+        "flexBasis": 0,
+        "flexGrow": 1,
+        "flexShrink": 1,
+        "justifyContent": "center",
+      },
+    ]
+  }
+>
+  <ActivityIndicator
+    color="#1778F2"
+    size="large"
+  />
+</View>
+`;

@@ -1,0 +1,46 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`render correctly render correctly primaryButton view 1`] = `
+<View
+  accessible={true}
+  collapsable={false}
+  focusable={false}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "#1778F2",
+      "borderColor": "#1778F2",
+      "borderRadius": 6,
+      "borderWidth": 1,
+      "height": 57.5,
+      "justifyContent": "center",
+      "opacity": 1,
+      "paddingHorizontal": 7.5,
+      "paddingVertical": 7.5,
+      "width": "100%",
+    }
+  }
+>
+  <Text
+    allowTextTransform={true}
+    style={
+      Array [
+        Object {
+          "color": "#fff",
+          "fontFamily": "Flink-Bold",
+          "fontSize": 16.5,
+          "lineHeight": 34.5,
+          "textTransform": "capitalize",
+        },
+      ]
+    }
+  />
+</View>
+`;

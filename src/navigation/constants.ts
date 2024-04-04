@@ -1,0 +1,9 @@
+export const NAV_LOGIN = 'NAV_LOGIN';
+export const NAV_HOME = 'NAV_HOME';
+export const NAV_PROFILE = 'NAV_PROFILE';
+export const NAV_HOME_SESSION = 'NAV_HOME_SESSION';
+export const NAV_TAB_HOME = 'NAV_TAB_HOME';
+export const NAV_TAB_PROFILE = 'NAV_TAB_PROFILE';
+export const NAV_DRAWER_PROFILE = 'NAV_DRAWER_PROFILE';
+export const NAV_SIGN_UP = 'NAV_SIGN_UP';
+export const NAV_VERIFY_MOBILE = 'NAV_VERIFY_MOBILE';
